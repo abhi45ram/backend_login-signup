@@ -1,0 +1,9 @@
+There are two folders: one for the backend and the other for the client.
+Before starting, install node_module in both folder.
+To start the client application, navigate to the client directory by executing:
+cd frontend and ng serve
+
+For the backend server, navigate to the root directory using the command:
+cd.. and node server.js
+
+Make sure to configure your MongoDB local server URL, typically mongodb://localhost:27017/
